@@ -93,8 +93,9 @@ Nodemon: Development tool for automatically restarting the server.
 ##### Walkthrough Video
 Watch a walkthrough video demonstrating the API's functionality:
 
-Walkthrough Video Link (Replace with the actual link to your video)
-Future Enhancements
+Walkthrough Video Link "C:\Users\nramo\onedrive\desktop\Social-API\assets\Untitled Video November 28, 2024 6_48 AM.mp4"
+
+### Future Enhancements
 Add authentication for users.
 Implement pagination for large datasets.
 Deploy to a cloud hosting service like Heroku or AWS.
